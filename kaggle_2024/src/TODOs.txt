@@ -1,0 +1,7 @@
+Some things I would like to do but do not have time:
+
+-- Find the ideal hyperparameters from the validation set using randomsearch
+-- Explore more features (e.g. vehicle odometer reading / Vehicle Age)
+-- Add code to see if the training set and validation set are similar (Cohen's D?)
+-- Chain the entire pipeline together to run everything end to end in one go
+-- Lint imports

@@ -1,1 +1,1 @@
-See kaggle_2024 folder for code
+See kaggle_2024 folder for code. Raw dataset came from the popular Carvana Don'tGetKicked Kaggle competition (https://www.kaggle.com/c/DontGetKicked). Random Forest classifer achieved a 99% Specificity and a 75% AUC. 

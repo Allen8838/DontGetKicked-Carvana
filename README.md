@@ -1,1 +1,1 @@
-Code in the kaggle_2024 folder
+See kaggle_2024 folder for code
